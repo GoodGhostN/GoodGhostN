@@ -2,7 +2,7 @@
 - 👀 I’m interested in Analytics and foreign languages.
 - 🌱 I’m currently learning SQL, Python and French.
 - 💞️ I’m looking to collaborate on some interesting project.
-- 📫 To reach me please email to good-ghost@ya.ru.
+- 📫 To reach me please email to good-ghost@ya.ru or text to https://t.me/GoodGhost_cn
 
 <!---
 GoodGhostN/GoodGhostN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
